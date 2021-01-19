@@ -1,4 +1,4 @@
-####A console application using kotlin:
+## A console application using kotlin:
 ##
 ### Input:
 - Integer
@@ -11,10 +11,10 @@
 - string as is entered
 
 ### Constraints:
-- #####integer between 0..10
-- #####String between 1..15 character
+- integer between 0..10
+- String between 1..15 character
 
-#Solved problems :
+### Solved problems :
 - Users enter string instead of integer or integer instead string.
 
 - Users enter a melange of string and integer.
